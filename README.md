@@ -8,6 +8,7 @@
 
 DESCRIPTION:
 TASK1:The primary objective of this task was to perform API integration by creating a responsive webpage that fetches and displays weather data from a public API. API integration involves connecting different software systems or applications through their Application Programming Interfaces (APIs) to enable seamless communication and data exchange. For this project,I selected a weather API from OpenWeatherMap.
+
 PROJECT OVERVIEW:
 I developed a simple weather application that retrieves and displays weather information for a user-specified location.The application consists of three main files: index.html,styles.css,and script.js.Each of these files plays a crucial role in the overall functionality and presentation of the webpage.
 

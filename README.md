@@ -22,4 +22,3 @@ JavaScript Functionality (script.js):The script.js file handles the core functio
 therefore,This project highlights a robust approach to building a dynamic weather webpage using HTML,CSS,and JavaScript.By integrating data from an external API,managing user input,and updating the webpage content in real time,we create an engaging user experience.The harmonious combination of a well-organized HTML structure,appealing CSS designand and functional JavaScript code sets a solid groundwork.
 
 OUTPUT:
-
